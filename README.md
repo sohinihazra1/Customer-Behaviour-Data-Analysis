@@ -1,1 +1,1 @@
-# Customer-Behaviour-Data-Analysis
+# customer-trends-data-analysis-project-using-SQL-Python-PowerBI
